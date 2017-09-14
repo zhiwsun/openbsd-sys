@@ -1,0 +1,22 @@
+/README/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efi.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efi_nii.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efiapi.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/eficon.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/eficonsctl.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efidebug.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efidef.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efidevp.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efierr.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efifpswa.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efifs.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efigop.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efinet.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efipart.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efiprot.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efipxebc.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efiser.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+/efistdarg.h/1.1/Wed May 11 08:30:58 2016//TOPENBSD_6_0_BASE
+D/amd64////
+D/arm////
+D/i386////

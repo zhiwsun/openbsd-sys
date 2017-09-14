@@ -1,0 +1,10 @@
+/autoconf.c/1.8/Wed May 18 01:21:40 2016//TOPENBSD_6_0_BASE
+/bus_dma.c/1.14/Sun Nov 16 12:30:58 2014//TOPENBSD_6_0_BASE
+/conf.c/1.18/Tue Jul  5 12:53:40 2016//TOPENBSD_6_0_BASE
+/disksubr.c/1.9/Sun Sep 27 20:20:23 2015//TOPENBSD_6_0_BASE
+/genassym.cf/1.1/Mon Sep 20 06:32:30 2010//TOPENBSD_6_0_BASE
+/locore.S/1.8/Thu Apr 14 15:48:09 2016//TOPENBSD_6_0_BASE
+/machdep.c/1.74/Fri Jul  1 15:12:37 2016//TOPENBSD_6_0_BASE
+/openprom.c/1.2/Tue Jul  5 13:41:46 2016//TOPENBSD_6_0_BASE
+/pciide_machdep.c/1.1/Thu Oct 28 22:52:10 2010//TOPENBSD_6_0_BASE
+D
